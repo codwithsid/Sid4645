@@ -64,6 +64,13 @@
 
 <br clear="both">
 
+## My GitHub Stats & Badges
+| <img src="https://github-profile-trophy.vercel.app/?username=codwithsid" alt="codwithsid" /> |
+| <a href="https://github.com/codwithsid/codwithsid"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codwithsid&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Siddhant's github stats" /></a> | <a href="https://github.com/codwithsid/codwithsid"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codwithsid&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
+
+## GitHub Activity Graph
+[![Sid's github contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=codwithsid&custom_title=codwithsid%27s%20activity%20graph&bg_color=fffff0&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&color=708090&days=60)](https://github.com/codwithsid)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codwithsid/Sid4645/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/codwithsid/codwithsid/output/snake.svg" alt="Snake animation" />
 </p>
