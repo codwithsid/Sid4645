@@ -65,9 +65,5 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codwithsid/codwithsid/output/snake.svg" alt="Snake animation" />
-</p>
------------------
-<p align="center">
   <img src="https://raw.githubusercontent.com/codwithsid/Sid4645/output/snake.svg" alt="Snake animation" />
 </p>
