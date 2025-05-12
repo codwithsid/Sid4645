@@ -67,3 +67,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/codwithsid/codwithsid/output/snake.svg" alt="Snake animation" />
 </p>
+-----------------
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codwithsid/output/snake.svg" alt="Snake animation" />
+</p>
